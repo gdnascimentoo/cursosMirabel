@@ -22,15 +22,18 @@ label{
 
 #navbar{
 
+    width: 100%;
+    overflow: hidden;
     height: 43px;
     background-color: #1f0241;
     display: flex;
-    column-gap: 65vw;
+    column-gap: 67vw;
 
 }
 
 #navlinks{
 
+    display: flex;
     height: 100%;
     width: 28vw;
 

@@ -1,1 +1,1 @@
-Esse projeto foi feito com o intuito de aprofundar estudos em HTML e CSS e JavaScript. Em específico, foi feito o uso de JS no carrossel, e na navbar responsiva.
+Esse projeto foi um projeto de estudos feito com o intuito de aprofundar estudos em HTML e CSS e JavaScript. Em específico, foi feito o uso de JS no carrossel, e na navbar responsiva.
