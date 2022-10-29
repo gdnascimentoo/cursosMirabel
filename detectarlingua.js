@@ -1,6 +1,8 @@
 let lingua = navigator.language;
 
-if(lingua == "pt-BR");
+if(lingua == "pt-BR"){
     window.location.href="indexpt.html";
-else;
+}
+else{
     window.location.href="index.html";
+}
