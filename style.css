@@ -273,6 +273,12 @@ label{
 
 }
 
+.txtprofes > p{
+
+    text-align: justify;
+
+}
+
 .bttcarrosselbox{
 
     width: 780px;
