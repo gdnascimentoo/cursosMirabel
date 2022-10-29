@@ -520,6 +520,46 @@ a{
         height: calc(43px);
 
     }
-    
+
+    div.copycap{
+
+        height: 100%;
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        border-radius: 0px;
+
+    }
+
+    .copycap > p{
+
+        padding: 10%;
+        text-align: left;
+
+    }
+
+    .displaycap{
+
+        padding: 0px;
+
+    }
+
+    .divtotalcap{
+
+        min-width: 50%;
+        height: 100%;
+        margin: 0px;
+        border-radius: 0px;
+        justify-content: center;
+        background-color: transparent;
+        backdrop-filter: blur(8px);
+
+    }
+
+    .divtotalcap:hover{
+
+        transform: scale(1);
+
+    }
 
 }
