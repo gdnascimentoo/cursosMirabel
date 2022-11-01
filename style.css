@@ -528,6 +528,7 @@ a{
         display: flex;
         justify-content: center;
         border-radius: 0px;
+        backdrop-filter: none;
 
     }
 
@@ -541,6 +542,7 @@ a{
     .displaycap{
 
         padding: 0px;
+        backdrop-filter: blur(8px);
 
     }
 
@@ -552,7 +554,7 @@ a{
         border-radius: 0px;
         justify-content: center;
         background-color: transparent;
-        backdrop-filter: blur(8px);
+        backdrop-filter: none;
 
     }
 
